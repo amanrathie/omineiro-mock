@@ -1,0 +1,152 @@
+{
+  "elements":[
+    {
+      "id":1,
+      "name":"Consultar Cliente",
+      "type":"Feature",
+      "technicalRisk":52,
+      "businessRisk":38
+    },
+    {
+      "id":2,
+      "name":"Cadastrar Cliente",
+      "type":"Feature",
+      "technicalRisk":26,
+      "businessRisk":62
+    },
+    {
+      "id":3,
+      "name":"Alterar Cliente",
+      "type":"Feature",
+      "technicalRisk":41,
+      "businessRisk":63
+    },
+    {
+      "id":4,
+      "name":"Detalhar Cliente",
+      "type":"Feature",
+      "technicalRisk":22,
+      "businessRisk":22
+    },
+    {
+      "id":5,
+      "name":"Excluir Cliente",
+      "type":"Feature",
+      "technicalRisk": -30,
+      "businessRisk": -30
+    },
+    {
+      "id":6,
+      "name":"Consultar Colaborador",
+      "type":"Feature",
+      "technicalRisk":-40,
+      "businessRisk":61
+    },
+
+    {
+      "id":7,
+      "name":"Cadastrar Colaborador",
+      "type":"Feature",
+      "technicalRisk":47,
+      "businessRisk":-24
+    },
+    {
+      "id":8,
+      "name":"Alterar Colaborador",
+      "type":"Feature",
+      "technicalRisk":94,
+      "businessRisk":1
+    },
+    {
+      "id":9,
+      "name":"Detalhar Colaborador",
+      "type":"Feature",
+      "technicalRisk":84,
+      "businessRisk":45
+    },
+    {
+      "id":10,
+      "name":"Excluir Colaborador",
+      "type":"Feature",
+      "technicalRisk":17,
+      "businessRisk":32
+    }
+  ],
+
+  "risk-assessment":[
+    {
+      "id":1,
+      "name":"Consultar Cliente",
+      "type":"Feature",
+      "technicalRisk":52,
+      "businessRisk":38
+    },
+    {
+      "id":2,
+      "name":"Cadastrar Cliente",
+      "type":"Feature",
+      "technicalRisk":26,
+      "businessRisk":62
+    },
+    {
+      "id":3,
+      "name":"Alterar Cliente",
+      "type":"Feature",
+      "technicalRisk":41,
+      "businessRisk":63
+    },
+    {
+      "id":4,
+      "name":"Detalhar Cliente",
+      "type":"Feature",
+      "technicalRisk":22,
+      "businessRisk":22
+    },
+    {
+      "id":5,
+      "name":"Excluir Cliente",
+      "type":"Feature",
+      "technicalRisk": -30,
+      "businessRisk": -30
+    },
+    {
+      "id":6,
+      "name":"Consultar Colaborador",
+      "type":"Feature",
+      "technicalRisk":-40,
+      "businessRisk":61
+    },
+
+    {
+      "id":7,
+      "name":"Cadastrar Colaborador",
+      "type":"Feature",
+      "technicalRisk":47,
+      "businessRisk":-24
+    },
+    {
+      "id":8,
+      "name":"Alterar Colaborador",
+      "type":"Feature",
+      "technicalRisk":94,
+      "businessRisk":1
+    },
+    {
+      "id":9,
+      "name":"Detalhar Colaborador",
+      "type":"Feature",
+      "technicalRisk":84,
+      "businessRisk":45
+    },
+    {
+      "id":10,
+      "name":"Excluir Colaborador",
+      "type":"Feature",
+      "technicalRisk":17,
+      "businessRisk":32
+    }
+  ],
+
+  "versions": ["2020-10-08T07:51:27.938776", "2019-10-08T07:51:27.938776", "2018-10-08T07:51:27.938776"]
+}
+
