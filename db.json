@@ -32,14 +32,14 @@
       "id":5,
       "name":"Excluir Cliente",
       "type":"Feature",
-      "technicalRisk": -30,
-      "businessRisk": -30
+      "technicalRisk": 30,
+      "businessRisk": 30
     },
     {
       "id":6,
       "name":"Consultar Colaborador",
       "type":"Feature",
-      "technicalRisk":-40,
+      "technicalRisk":40,
       "businessRisk":61
     },
 
@@ -48,20 +48,20 @@
       "name":"Cadastrar Colaborador",
       "type":"Feature",
       "technicalRisk":47,
-      "businessRisk":-24
+      "businessRisk": 24
     },
     {
       "id":8,
       "name":"Alterar Colaborador",
       "type":"Feature",
-      "technicalRisk":94,
+      "technicalRisk":70,
       "businessRisk":1
     },
     {
       "id":9,
       "name":"Detalhar Colaborador",
       "type":"Feature",
-      "technicalRisk":84,
+      "technicalRisk":64,
       "businessRisk":45
     },
     {
@@ -106,14 +106,14 @@
       "id":5,
       "name":"Excluir Cliente",
       "type":"Feature",
-      "technicalRisk": -30,
-      "businessRisk": -30
+      "technicalRisk": 30,
+      "businessRisk": 30
     },
     {
       "id":6,
       "name":"Consultar Colaborador",
       "type":"Feature",
-      "technicalRisk":-40,
+      "technicalRisk":40,
       "businessRisk":61
     },
 
@@ -122,20 +122,20 @@
       "name":"Cadastrar Colaborador",
       "type":"Feature",
       "technicalRisk":47,
-      "businessRisk":-24
+      "businessRisk": 24
     },
     {
       "id":8,
       "name":"Alterar Colaborador",
       "type":"Feature",
-      "technicalRisk":94,
+      "technicalRisk":70,
       "businessRisk":1
     },
     {
       "id":9,
       "name":"Detalhar Colaborador",
       "type":"Feature",
-      "technicalRisk":84,
+      "technicalRisk":64,
       "businessRisk":45
     },
     {
